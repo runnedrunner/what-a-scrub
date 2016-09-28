@@ -1,3 +1,4 @@
+console.log("stuff");
 var sumName = "";
 
 function summonerLookUp() {
